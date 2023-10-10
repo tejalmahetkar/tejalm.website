@@ -1,17 +1,17 @@
--- import: <user_name>.github.io/<repo_name>
+-- import: tejalmahetkar.github.io/tejalm.website
 
 
 
--- site-doc.doc-home: <repo_name> package
-site-title: `<repo_name>`
+-- site-doc.doc-home: tejalm.website package
+site-title: `tejalm.website`
 show-tabs: false
-github-url: <user_name>.github.io/<repo_name>
-current-package: <user_name>.github.io/<repo_name>
+github-url: tejalmahetkar.github.io/tejalm.website
+current-package: tejalmahetkar.github.io/tejalm.website
 
-Below are our default fastn `inherited` font types of <repo_name>.
+Below are our default fastn `inherited` font types of tejalm.website.
 
 -- display-type:
-types: $<repo_name>.types
+types: $tejalm.website.types
 
 
 -- end: site-doc.doc-home
